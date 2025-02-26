@@ -18,9 +18,10 @@
   <li>Armazenamento seguro de variáveis de ambiente com dotenv<</li>
   <li>Boas práticas de estruturação de código</li>
 </ul>
+<br>
 
 
-<h2>📂 Estrutura do Projeto</h2>h2>
+<h2>📂 Estrutura do Projeto</h2>
 <p>📦 user-auth-api</p>
 <p>┣ 📂 src</p>
 <p>┃ ┣ 📂 controllers → Lógica das rotas</p>
