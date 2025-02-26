@@ -9,18 +9,20 @@
 <br><br>
 
 <h2>Requisitos Técnicos</h2>
-<p>Backend em Node.js com Express.js</p><br>
-<p>Banco de dados PostgreSQL (ou MongoDB, se preferir)</p><br>
-<p>Autenticação com JWT (JSON Web Token)</p><br>
-<p>Criptografia de senha com bcrypt</p><br>
-<p>Validação de entrada com Joi</p><br>
-<p>Armazenamento seguro de variáveis de ambiente com dotenv</p><br>
-<p>Boas práticas de estruturação de código</p><br>
+<ul>
+  <li>Backend em Node.js com Express.js</li>
+  <li>Banco de dados MongoDB</li>
+  <li>Autenticação com JWT (JSON Web Token)</li>
+  <li>Criptografia de senha com bcrypt</li>
+  <li>Validação de entrada com Joi</li>
+  <li>Armazenamento seguro de variáveis de ambiente com dotenv<</li>
+  <li>Boas práticas de estruturação de código</li>
+</ul>
 
 
-📂 Estrutura do Projeto
-📦 user-auth-api
-┣ 📂 src
+<h2>📂 Estrutura do Projeto</h2>h2>
+<p>📦 user-auth-api</p>
+<p>┣ 📂 src</p>
 ┃ ┣ 📂 controllers → Lógica das rotas
 ┃ ┣ 📂 models → Definição dos modelos do banco
 ┃ ┣ 📂 routes → Configuração das rotas
