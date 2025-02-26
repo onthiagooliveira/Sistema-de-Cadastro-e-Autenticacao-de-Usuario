@@ -1,20 +1,21 @@
 # 🚀 Exercício: Sistema de Cadastro e Autenticação de Usuário
 <br>
 <h2>Objetivo</h2>
-Criar uma aplicação web onde os usuários possam:
-✅ Criar uma conta<br>
-✅ Fazer login e receber um token JWT
-✅ Atualizar suas informações
-✅ Deletar sua conta
+<p>Criar uma aplicação web onde os usuários possam:</p><br><br>
+<p>✅ Criar uma conta</p><br>
+<p>✅ Fazer login e receber um token JWT</p><br>
+<p>✅ Atualizar suas informações</p><br>
+<p>✅ Deletar sua conta</p><br>
+<br><br>
 
-Requisitos Técnicos
-Backend em Node.js com Express.js
-Banco de dados PostgreSQL (ou MongoDB, se preferir)
-Autenticação com JWT (JSON Web Token)
-Criptografia de senha com bcrypt
-Validação de entrada com Joi
-Armazenamento seguro de variáveis de ambiente com dotenv
-Boas práticas de estruturação de código
+<h2>Requisitos Técnicos</h2>
+<p>Backend em Node.js com Express.js</p><br>
+<p>Banco de dados PostgreSQL (ou MongoDB, se preferir)</p><br>
+<p>Autenticação com JWT (JSON Web Token)</p><br>
+<p>Criptografia de senha com bcrypt</p><br>
+<p>Validação de entrada com Joi</p><br>
+<p>Armazenamento seguro de variáveis de ambiente com dotenv</p><br>
+<p>Boas práticas de estruturação de código</p><br>
 
 
 📂 Estrutura do Projeto
