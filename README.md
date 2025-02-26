@@ -22,14 +22,16 @@
 
 
 <h2>📂 Estrutura do Projeto</h2>
-<p>📦 user-auth-api</p>
+<p>📦 sistema-de-cadastro-e-autenticacao</p>
 <p>┣ 📂 src</p>
 <p>┃ ┣ 📂 controllers → Lógica das rotas</p>
 <p>┃ ┣ 📂 models → Definição dos modelos do banco</p>
 <p>┃ ┣ 📂 routes → Configuração das rotas</p>
 <p>┃ ┣ 📂 middleware → Middleware de autenticação</p>
 <p>┃ ┣ 📂 config → Configuração do banco e do servidor</p>
-<p>┃ ┣ 📜 server.js → Entrada do servidor</p>
+<p>┃ ┣ 📜 server.js → Inicia o servidor</p>
+<p>┃ ┣ 📜 app.js → Configuração do express</p>
+<p>┣ 📂 frontend → Configuração do banco e do servidor</p>
 <p>┣ 📜 .env → Variáveis de ambiente</p>
 <p>┣ 📜 .gitignore</p>
 <p>┣ 📜 package.json</p>
