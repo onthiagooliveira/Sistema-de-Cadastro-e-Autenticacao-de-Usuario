@@ -1,11 +1,11 @@
 # 🚀 Exercício: Sistema de Cadastro e Autenticação de Usuário
 <br>
 <h2>Objetivo</h2>
-<p>Criar uma aplicação web onde os usuários possam:</p><br><br>
-<p>✅ Criar uma conta</p><br>
-<p>✅ Fazer login e receber um token JWT</p><br>
-<p>✅ Atualizar suas informações</p><br>
-<p>✅ Deletar sua conta</p><br>
+<p>Criar uma aplicação web onde os usuários possam:</p><br>
+<p>✅ Criar uma conta</p>
+<p>✅ Fazer login e receber um token JWT</p>
+<p>✅ Atualizar suas informações</p>
+<p>✅ Deletar sua conta</p>
 <br><br>
 
 <h2>Requisitos Técnicos</h2>
