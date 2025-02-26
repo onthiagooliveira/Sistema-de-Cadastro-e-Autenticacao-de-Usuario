@@ -23,13 +23,13 @@
 <h2>📂 Estrutura do Projeto</h2>h2>
 <p>📦 user-auth-api</p>
 <p>┣ 📂 src</p>
-┃ ┣ 📂 controllers → Lógica das rotas
-┃ ┣ 📂 models → Definição dos modelos do banco
-┃ ┣ 📂 routes → Configuração das rotas
-┃ ┣ 📂 middleware → Middleware de autenticação
-┃ ┣ 📂 config → Configuração do banco e do servidor
-┃ ┣ 📜 server.js → Entrada do servidor
-┣ 📜 .env → Variáveis de ambiente
-┣ 📜 .gitignore
-┣ 📜 package.json
-┣ 📜 README.md
+<p>┃ ┣ 📂 controllers → Lógica das rotas</p>
+<p>┃ ┣ 📂 models → Definição dos modelos do banco</p>
+<p>┃ ┣ 📂 routes → Configuração das rotas</p>
+<p>┃ ┣ 📂 middleware → Middleware de autenticação</p>
+<p>┃ ┣ 📂 config → Configuração do banco e do servidor</p>
+<p>┃ ┣ 📜 server.js → Entrada do servidor</p>
+<p>┣ 📜 .env → Variáveis de ambiente</p>
+<p>┣ 📜 .gitignore</p>
+<p>┣ 📜 package.json</p>
+<p>┣ 📜 README.md</p>
