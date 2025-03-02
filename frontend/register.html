@@ -8,7 +8,7 @@
     <!-- Style -->
     <link rel="stylesheet" href="/frontend/css/reset.css">
     <link rel="stylesheet" href="/frontend/css/header.css">
-    <link rel="stylesheet" href="/frontend/css/">
+    <link rel="stylesheet" href="/frontend/css/form.css">
     <!-- Scripts -->
     <script defer src="/frontend/js/app.js"></script>
 </head>
@@ -22,19 +22,19 @@
 
     <main>
         <div class="title-section">
-            <h1>Cadastrar-se</h1>
+            <h1 class="form-title">Registrar-se</h1>
         </div>
 
-        <form class="grid" action="http://localhost:5000/api/users/register" method="POST">
-            <div class="field-input">
-                <input class="input-email" type="email" placeholder="Seu e-mail">
+        <form class="grid form-register" action="http://localhost:5000/api/users/register" method="POST">
+            <div class="field-input grid">
+                <input class="input-info" type="text" placeholder="Nome">
+                <input class="input-info" type="email" placeholder="Seu e-mail">
                 <span class="alert-email"></span>
-                <input class="inpuPassword" type="password" placeholder="Senha">
+                <input class="input-info" type="password" placeholder="Senha">
                 <span class="alert-password"></span>
             </div>
             <div class="buttons">
                 <input type="submit" class="btn-register" value="Registrar-se">
-                <input type="submit" class="btn-login" value="Conectar-se">
             </div>
             <div class="option-login">
                 <div class="title-opt">

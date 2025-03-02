@@ -9,6 +9,7 @@ exports.registerUser = async (req, res) => {
     try {
         const { name, email, password } = req.body;
 
+
         // Verificando se o usuário já existe
         let user = await User.findOne({ email });
         if (user) return res.status(400).json({ message: 'Email já cadastrado' });
